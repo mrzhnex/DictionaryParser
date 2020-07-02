@@ -1,0 +1,11 @@
+F:\Портфолио\Stuff\DictionaryParser\bin\Debug\netcoreapp3.0\DictionaryParser.exe
+F:\Портфолио\Stuff\DictionaryParser\bin\Debug\netcoreapp3.0\DictionaryParser.deps.json
+F:\Портфолио\Stuff\DictionaryParser\bin\Debug\netcoreapp3.0\DictionaryParser.runtimeconfig.json
+F:\Портфолио\Stuff\DictionaryParser\bin\Debug\netcoreapp3.0\DictionaryParser.runtimeconfig.dev.json
+F:\Портфолио\Stuff\DictionaryParser\bin\Debug\netcoreapp3.0\DictionaryParser.dll
+F:\Портфолио\Stuff\DictionaryParser\bin\Debug\netcoreapp3.0\DictionaryParser.pdb
+F:\Портфолио\Stuff\DictionaryParser\obj\Debug\netcoreapp3.0\DictionaryParser.csprojAssemblyReference.cache
+F:\Портфолио\Stuff\DictionaryParser\obj\Debug\netcoreapp3.0\DictionaryParser.AssemblyInfoInputs.cache
+F:\Портфолио\Stuff\DictionaryParser\obj\Debug\netcoreapp3.0\DictionaryParser.AssemblyInfo.cs
+F:\Портфолио\Stuff\DictionaryParser\obj\Debug\netcoreapp3.0\DictionaryParser.dll
+F:\Портфолио\Stuff\DictionaryParser\obj\Debug\netcoreapp3.0\DictionaryParser.pdb

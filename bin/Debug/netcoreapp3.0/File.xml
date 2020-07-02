@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Dictionary>
+    <Key>123</Key>
+    <Value>68790</Value>
+  </Dictionary>
+  <Dictionary>
+    <Key>321</Key>
+    <Value>oda</Value>
+  </Dictionary>
+  <Dictionary>
+    <Key>22</Key>
+    <Value>34</Value>
+  </Dictionary>
+</ArrayOfDictionary>
